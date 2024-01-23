@@ -114,7 +114,7 @@ body {
 
 /* Photo e resto del body*/
 .book { 
-  background-image: url("/Users/Giorgio/Desktop/start2impact/Progetto_HTML_CSS/assets/images/me.jpg");
+  background-image: url("assets/images/me.jpg");
   background-size: cover;
   justify-content: center;
   align-items: center;
@@ -137,7 +137,6 @@ body {
 }
 
 /*second part*/
-
 .about {  /*il box in questa condizione è flex*/
   flex-direction: column;
   position: relative;
@@ -160,7 +159,7 @@ body {
 }
 
 .image-projects {
-  background-image: url("/Users/Giorgio/Desktop/start2impact/Progetto_HTML_CSS/assets/images/projects.png");
+  background-image: url("assets/images/projects.png");
   background-size: cover;
   background-position: right center;
   justify-content: center;
@@ -182,7 +181,6 @@ body {
   justify-content: space-between;
   text-align: center;
 }
-
 
 /*footer: end part*/
 
@@ -248,7 +246,6 @@ a:not([href]):not([class]):hover {
 }
 
 /*questo @media mi serve per il menù*/
-
 @media (min-width: 48em) {
   .header li {
     float: left;
@@ -264,10 +261,11 @@ a:not([href]):not([class]):hover {
     max-height: 0;
   }
 }
+
 /*fine menù*/
 
- /*Desktop Styles*/
 
+/*Desktop Styles*/
 @media only screen and (min-width: 961px) {
   .body {
     width: 100%;
@@ -303,6 +301,7 @@ a:not([href]):not([class]):hover {
     padding-top: 150px;
   } 
 }
+
 /* solo telefoni*/
 @media only screen and (max-width: 480px) {
   .body {
