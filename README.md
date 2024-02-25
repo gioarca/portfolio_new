@@ -40,7 +40,7 @@ This is my portfolio updated.
 
 Use the `index.html` to get started otherwis click on the link below to see it online:
 
-<a href="https://main--jazzy-pony-e68685.netlify.app/" target=#_blank>https://main--jazzy-pony-e68685.netlify.app/</a>
+<a href="https://gioarca.netlify.app/" target=#_blank>https://gioarca.netlify.app/</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
