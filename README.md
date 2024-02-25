@@ -36,9 +36,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is my portfolio updated.
+This is my portfolio.
 
-Use the `index.html` to get started otherwis click on the link below to see it online:
+Click on the link below to see it:
 
 <a href="https://gioarca.netlify.app/" target=#_blank>https://gioarca.netlify.app/</a>
 
@@ -61,7 +61,7 @@ I made this project with:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how I used Javascript without external libraries, only pure JS.
+This is an example of how I used Javascript without external libraries.
 Follow the instrucions included inside the index.html, you can't make mistake.
 
 ### Prerequisites
