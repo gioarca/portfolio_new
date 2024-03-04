@@ -85,6 +85,4 @@ Giorgio Arcamone - giorgio.arcamone93@gmail.com
 
 Linkedin: https://www.linkedin.com/in/giorgio-arcamone/
 
-Project Link: [https://github.com/gioarca/javascript_advanced](https://github.com/gioarca/javascript_advanced)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
