@@ -42,8 +42,6 @@ Click on the link below to see it:
 
 <a href="https://gioarca.netlify.app/" target=#_blank>https://gioarca.netlify.app/</a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -53,8 +51,6 @@ I made this project with:
 * [HTML]
 * [CSS]
 * [JavaScript]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -73,7 +69,6 @@ You don't have nothing to install on your PC/Mac. Just enjoy the watching.
 
 Use this space to know about me and the new projects. Stay tuned!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
  
